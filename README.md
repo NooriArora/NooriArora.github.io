@@ -1,24 +1,31 @@
-# Personal Portfolio ⚡️ 
-> A clean, beautiful, responsive portfolio template for Software Developers!
+# Noori Arora - Personal Portfolio ⚡️ 
+> A clean, beautiful, responsive portfolio website for Full-Stack Developer & AI/ML Enthusiast
 
-> https://varadbhogayata.github.io
+> https://nooriarora.github.io
 
-![GitHub stars](https://img.shields.io/github/stars/varadbhogayata/varadbhogayata.github.io) 
-![GitHub forks](https://img.shields.io/github/forks/varadbhogayata/varadbhogayata.github.io)
-[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/varadbhogayata/varadbhogayata.github.io/commits/master)
-[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://varadbhogayata.github.io/)
-[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/varadbhogayata/)
+![GitHub stars](https://img.shields.io/github/stars/NooriArora/NooriArora.github.io) 
+![GitHub forks](https://img.shields.io/github/forks/NooriArora/NooriArora.github.io)
+[![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/NooriArora/NooriArora.github.io/commits/main)
+[![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://nooriarora.github.io/)
+[![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/noori-arora/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://varadbhogayata.github.io" target="_blank"><img src="examples/preview.gif">
+    <a href="https://nooriarora.github.io" target="_blank"><img src="examples/preview.gif">
   </a>
   </kbd>
 </p>
 
-:star: Star me on GitHub — it helps!
+⭐ Welcome to my portfolio! I'm Noori Arora, a Computer Science student at Thompson Rivers University with expertise in full-stack development, AI/ML, and computer vision.
+
+## About Me 👋
+- 🎓 **Education:** Bachelor of Computing Science (Co-op) at Thompson Rivers University, GPA: 3.72/4.33
+- 💻 **Specialization:** Full-Stack Development, Machine Learning, Computer Vision
+- 🏆 **Leadership:** President of Women In STEM Club - Secured $5,000+ in funding for community events
+- 📍 **Location:** Kamloops, BC, Canada
+- 📧 **Contact:** noori.arora0803@gmail.com | 📱 (604) 767-3792
 
 ## Features 📋
 ⚡️ Fully Responsive\
@@ -28,11 +35,11 @@
 
 ## Installation & Deployment 📦
 - Clone the repository and modify the content of <b>index.html</b> according to your requirement.
-- Add or remove images from `varadbhogayata.github.io/assets/img/` directory as per your requirement.
-- I highly recommend to use [Github Pages](https://create-react-app.dev/docs/deployment/#github-pages) to deploy the website the EASIEST WAY.
-- To deploy your website, first you need to create github repository with name `<your-github-username>.github.io`. Please don't give any other name.
-- Push the generated code to the `master` branch of this repository.
-- <b>NOTE:</b> Make sure to set `analyticsId` from your Google Analytics account inside the Google Analytics script tag, if you want to use your own Google Analytics account.
+- Add or remove images from `NooriArora.github.io/assets/img/` directory as per your requirement.
+- Deploy using [Github Pages](https://pages.github.com/) - it's simple and free!
+- To deploy your own portfolio, create a GitHub repository with name `<your-github-username>.github.io`.
+- Push your code to the `main` branch of this repository.
+- <b>NOTE:</b> Update `analyticsId` from your Google Analytics account if you want to use analytics tracking.
 
 ## Sections 📚
 ✔️ About me\
@@ -43,7 +50,32 @@
 ✔️ Contact Info\
 ✔️ Resume
 
-To view a live example, **[click here](https://varadbhogayata.github.io/)**
+To view a live example, **[click here](https://nooriarora.github.io/)**
+
+## Experience 💼
+- **Research Assistant – Computer Vision and Deep Learning** @ Thompson Rivers University (Oct 2025 - Present)
+  - Built production-grade data pipelines processing 8,000+ human motion samples
+  - Deployed experiments on cloud infrastructure using Bash and Linux
+
+- **Researcher – Applied ML for Predictive Health Analytics** @ Thompson Rivers University (May 2025 - Aug 2025)
+  - Designed end-to-end ML workflows using Python and SQL for healthcare datasets
+  - Trained and evaluated multiple ML models with comprehensive documentation
+
+- **Teaching Assistant – Java Programming 2** @ Thompson Rivers University (Sep 2025 - Present)
+  - Provided technical documentation and code reviews
+  - Helped students debug complex programming challenges
+
+## Technical Skills 🛠️
+
+**Languages & Databases:** Python, SQL, JavaScript, PHP, Git, Bash, Linux
+
+**AI/ML Frameworks:** Large Language Models (LLMs), Computer Vision, Deep Learning, Scikit-learn, TensorFlow, OpenCV
+
+**Cloud & DevOps:** AWS (basic), Databricks, FastAPI, RESTful APIs, Version Control (Git/GitHub)
+
+**Data & Analytics:** Power BI, Excel, Power Query, Pandas, Data Visualization, Statistical Analysis
+
+**Development:** Full-Stack Web Development (MVC), Data Pipelines, Production Deployment, IoT Systems
 
 ## Tools Used 🛠️
 * [<b>GitHub Pages</b>](https://create-react-app.dev/docs/deployment/#github-pages) - To host my static website (HTML, CSS, JS).
